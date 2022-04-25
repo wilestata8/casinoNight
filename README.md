@@ -1,6 +1,7 @@
 # casinoNight
 
 Going to the casino is always fun so I wanted to bring the casino experience to  your desktop. 
+**linke to project:** https://vegascasinonight22.netlify.app
 
 <img src= "Screen%20Shot%202022-04-23%20at%209.31.40%20PM.png" width =80%>
 
